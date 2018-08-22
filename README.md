@@ -1,4 +1,7 @@
 # react-native-iap
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/dooboolab/react-native-iap.svg)](https://greenkeeper.io/)
+
 <p align="left">
   <a href="https://npmjs.org/package/react-native-iap"><img alt="npm version" src="http://img.shields.io/npm/v/react-native-iap.svg?style=flat-square"></a>
   <a href="https://npmjs.org/package/react-native-iap"><img alt="npm version" src="http://img.shields.io/npm/dm/react-native-iap.svg?style=flat-square"></a>
